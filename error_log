@@ -1,0 +1,1 @@
+[06-Aug-2021 18:10:58 America/New_York] PHP Fatal error:  Cannot redeclare get_client_ip() (previously declared in /home/communi7/public_html/application/controllers/Home_controller.php:93) in /home/communi7/public_html/application/views/welcome.php on line 211
